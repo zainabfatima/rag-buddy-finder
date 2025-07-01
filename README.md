@@ -1,0 +1,2 @@
+# rag-buddy-finder
+A simple Retrieval-Augmented Generation (RAG) web app that allows users to upload documents (PDF, DOCX, TXT), ask questions, and receive AI-powered answers based on the uploaded content. It features semantic search, text chunking, a clean chat interface, and a modern responsive design with gradient backgrounds and smooth animations.
